@@ -11,9 +11,13 @@
 		}
 		
 		body{
-		background-attachment: url("/images/background.jpg");
-		background-color: rgb(34, 175, 255)
+		background: lightblue;
+		animation: mymove 10s infinite
 		}
+		
+		@keyframes mymove {
+  25% {background-color: red;}
+}
 		
 		h2,p{
 			color:rgb(255, 185, 44)
