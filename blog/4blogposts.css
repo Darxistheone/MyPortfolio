@@ -4,11 +4,26 @@ body{
   color: #000000;
 }
 
-h1,h2{
+body{
 text-align: center;
 }
 
-p{
+p,h3,h2{
 text-align: left;
-font-size:18.0pt
+font-size:18.0pt;
+border-style: round;
+}
+
+.round{
+  border-left-style: solid;
+  border-left-color: #f56800;
+  padding: 10px
+}
+
+.progress{
+ border-color: black;
+ border-style: solid;
+ border-width: thick;
+ display: inline-block;
+ padding: 10px
 }
