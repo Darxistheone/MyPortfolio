@@ -94,7 +94,7 @@ font-weight: bold;
 
 .about-me-head{
 	position: absolute;
-	top: 124px;
+	top: 115px;
 	left: 593px;
 	color: white;
 	font-size: 67px;
@@ -133,3 +133,21 @@ color: white;
 font-size: 22px;
 }
 
+.under-overview{
+	color: #fff;
+	position: absolute;
+	top: 723px;
+	left: 25px;
+	height: 1px;
+	width: 1440px;
+}
+
+.three-langs{
+	position: absolute;
+	top: 200px;
+	left: 1230px;
+	height: 425px;
+	width: 640px;
+	border-radius: 33px;
+	border: 5px solid;
+}
