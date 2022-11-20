@@ -5,10 +5,10 @@ body{
 }
 
 .title {
-  padding: 25px;
-	color:white;
-		text-align: left;
-			font-size: 42px
+position: relative;
+top: 0px;
+left: 25px;
+font-size: 42px
 }
 
 .buttonone{
@@ -21,11 +21,12 @@ body{
 	border: none;
 	position: absolute;
 		left: 1199px;
-		top: 25px;
+		top: 46px;
 		font-size: 24px;
 		font-weight: bold;
 		padding: 0;
 }
+
 
 .buttontwo {
 	padding-right: 192px;
@@ -37,7 +38,7 @@ body{
 	border: none;
 	position: absolute;
 	left: 1469px;
-	top: 25px;
+	top: 46px;
 	font-size: 24px;
 	font-weight: bold;
 	padding: 0;
@@ -53,8 +54,16 @@ body{
 	border: none;
 	position: absolute;
 	left: 1728px;
-	top: 25px;
+	top: 46px;
 	font-size: 24px;
 	font-weight: bold;
 	padding: 0;
+}
+
+.fgpic{
+	position: absolute;
+	border-radius: 50%;
+	border-color: #F84816;
+	border: 10px solid;
+	background-color: #F84816;
 }
