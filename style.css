@@ -1,0 +1,21 @@
+/* CSS Document */
+body{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
+	background-color: #80ADFB
+}
+
+.title {
+  padding: 25px;
+	color:white;
+		text-align: left;
+			font-size: 42px
+}
+
+.button{
+	padding-right: 192px;
+	float: right;
+	height: 57px;
+	width: 159px;		
+	background-color: #000;
+	border-radius: 29%
+}
