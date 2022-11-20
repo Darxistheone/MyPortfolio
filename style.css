@@ -16,6 +16,11 @@ body{
 	float: right;
 	height: 57px;
 	width: 159px;
-	background-color: #000;
-	border-radius: 29%;
+	background-color: #fff;
+	border-radius: 29px;
+	outline: none;
+	position: absolute;
+		left: 929px;
+		top: 28px;
+		font-size: 20px;
 }
