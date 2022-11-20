@@ -18,9 +18,11 @@ body{
 	width: 159px;
 	background-color: #fff;
 	border-radius: 29px;
-	outline: none;
+	border: none;
 	position: absolute;
 		left: 929px;
 		top: 28px;
-		font-size: 20px;
+		font-size: 27px;
+		font-weight: bold;
+		padding: 0;
 }
