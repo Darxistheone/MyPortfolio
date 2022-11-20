@@ -2,15 +2,13 @@
 body{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
 	background-color: #80ADFB;
-	height: 1080px;
-	width: 1920px;
 }
 
 .title {
 position: relative;
-top: 0px;
-left: 25px;
-font-size: 42px
+padding-left: 25px;
+font-size: 42px;
+color: white;
 }
 
 .buttonone{
@@ -62,10 +60,3 @@ font-size: 42px
 	padding: 0;
 }
 
-.fgpic{
-	position: absolute;
-	border-radius: 50%;
-	border-color: #F84816;
-	border: 10px solid;
-	background-color: #F84816;
-}
