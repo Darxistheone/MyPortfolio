@@ -85,7 +85,7 @@ font-weight: bold;
 
 .about-me{
 	position: absolute;
-	top: 227px;
+	top: 200px;
 	left: 593px;
 	color: white;
 	font-size: 35px;
@@ -94,10 +94,42 @@ font-weight: bold;
 
 .about-me-head{
 	position: absolute;
-	top: 164px;
+	top: 124px;
 	left: 593px;
 	color: white;
 	font-size: 67px;
 	font-font-weight: bold;
-
 }
+
+.overview{
+position: absolute;
+top: 620px;
+left: 25px;
+color: white;
+font-size: 67px;
+}
+
+.more-about-me{
+position: absolute;
+top: 725px;
+left: 25px;
+color: white;
+font-size: 22px;
+}
+
+.progress{
+position: absolute;
+top: 620px;
+left: 848px;
+color: white;
+font-size: 67px;
+}
+
+.progress-writing{
+	position: absolute;
+top: 725px;
+left: 848px;
+color: white;
+font-size: 22px;
+}
+
