@@ -1,7 +1,9 @@
 /* CSS Document */
 body{
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif";
-	background-color: #80ADFB
+	background-color: #80ADFB;
+	height: 1080px;
+	width: 1920px;
 }
 
 .title {
