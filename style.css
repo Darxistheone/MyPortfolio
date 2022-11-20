@@ -11,7 +11,7 @@ body{
 			font-size: 42px
 }
 
-.button{
+.buttonone{
 	padding-right: 192px;
 	float: right;
 	height: 57px;
@@ -20,9 +20,41 @@ body{
 	border-radius: 29px;
 	border: none;
 	position: absolute;
-		left: 929px;
-		top: 28px;
-		font-size: 27px;
+		left: 1199px;
+		top: 25px;
+		font-size: 24px;
 		font-weight: bold;
 		padding: 0;
+}
+
+.buttontwo {
+	padding-right: 192px;
+	float: right;
+	height: 57px;
+	width: 159px;
+	background-color: #fff;
+	border-radius: 29px;
+	border: none;
+	position: absolute;
+	left: 1469px;
+	top: 25px;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 0;
+}
+
+.buttonthree {
+	padding-right: 192px;
+	float: right;
+	height: 57px;
+	width: 159px;
+	background-color: #fff;
+	border-radius: 29px;
+	border: none;
+	position: absolute;
+	left: 1728px;
+	top: 25px;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 0;
 }
