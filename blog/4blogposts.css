@@ -42,6 +42,7 @@ border-style: round;
 		font-size: 24px;
 		font-weight: bold;
 		padding: 0;
+		cursor: pointer;
 }
 
 .buttontwo {
@@ -58,6 +59,7 @@ border-style: round;
 	font-size: 24px;
 	font-weight: bold;
 	padding: 0;
+	cursor: pointer;
 }
 
 .buttonthree {
@@ -74,4 +76,5 @@ border-style: round;
 	font-size: 24px;
 	font-weight: bold;
 	padding: 0;
+	cursor: pointer;
 }
