@@ -79,10 +79,11 @@ font-weight: bold;
 	font-size: 67px;
 	font-weight: bold;
 }
+
 .fgpic{
 	position: relative;
-	top: 124px;
-	left: 25px;
+	top: 160px;
+	left: 425px;
 	border-radius: 50%;
 	height: 514px;
 	width: 514px;
@@ -90,8 +91,8 @@ font-weight: bold;
 
 .fgpicborder{
 	position: relative;
-	top: 124px;
-	left: -489px;
+	top: 160px;
+	left: -89px;
 	border: 5px dashed;
 	border-radius: 50%;
 	height: 504px;
